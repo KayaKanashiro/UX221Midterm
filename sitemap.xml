@@ -2,7 +2,17 @@
 <urlset>
     <url>
         <loc>
-            http://localhost:8000/hello-world/
+            http://localhost:8000/going-to-church/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/christmas-dinner/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/gift-exchange/
         </loc>
     </url>
     <url>
@@ -18,6 +28,11 @@
     <url>
         <loc>
             http://localhost:8000/contact/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/ways-to-celebrate/
         </loc>
     </url>
     <url>
